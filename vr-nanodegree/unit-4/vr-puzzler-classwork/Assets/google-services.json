@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1052645042572",
+    "firebase_url": "https://puzzler-test.firebaseio.com",
+    "project_id": "puzzler-test",
+    "storage_bucket": "puzzler-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052645042572:android:f12781d2c6771881",
+        "android_client_info": {
+          "package_name": "com.HeathGarvey.Puzzler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052645042572-ujdegvhbc4m043jb6igb19cqb3ckcb9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDhournLn5gJ8-fdInP5lLd3hCFLcqrJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
