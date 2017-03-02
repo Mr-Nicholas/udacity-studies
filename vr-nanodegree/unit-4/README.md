@@ -9,7 +9,7 @@ Aside from the desire to evoke user nightmares via the scene’s macabre atmosph
 With this project tested on volunteers without previous VR experience, simulation sickness and the intuitiveness of menus were fundamental concerns in both the development and testing phases. This project was therefore a great primer on the necessity for iterative development when producing VR content.
 
 ## SCREEN RECORDING
-[![Mars Escape Screen Recording](http://http://i.imgur.com/TAam28ir.jpg)](https://vimeo.com/206472339/4ef0611e0e "Mars Escape")
+[![Mars Escape Screen Recording](http://i.imgur.com/TAam28ir.jpg)](https://vimeo.com/206472339/4ef0611e0e "Mars Escape")
 
 ## NEXT STEPS
 Keen to execute ‘A Puzzling Liaison’ (see sketches), it’s my ambition to extract the scripting and business logic of Mars Escape and applying it to a far more humorous, contemporary bedroom environment.
