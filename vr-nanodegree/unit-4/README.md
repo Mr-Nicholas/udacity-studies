@@ -12,8 +12,7 @@ With this project tested on volunteers without previous VR experience, simulatio
 [![Mars Escape Screen Recording](http://i.imgur.com/TAam28ir.jpg)](https://vimeo.com/206472339/4ef0611e0e "Mars Escape")
 
 ## NEXT STEPS
-Keen to execute ‘A Puzzling Liaison’ (see sketches), it’s my ambition to extract the scripting and business logic of Mars Escape and applying it to a far more humorous, contemporary bedroom environment.
-Additional links
+Keen to execute ‘A Puzzling Liaison’ (see [sketches](https://medium.com/@heathnicholas/mars-escape-faabdd4c2d62#.5nkjmg8ot)), it’s my ambition to extract the scripting and business logic of Mars Escape and applying it to a far more humorous, contemporary bedroom environment.
 
 ## INSTRUCTIONS
 Install the .apk file onto your Android device and take the app for a spin!
