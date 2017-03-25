@@ -5,8 +5,8 @@ Here lies the build files for my virtual reality nanodegree. All projects have b
 - [x] Unit One: A basic VR interface with user interaction
 - [x] Unit Two: A basic VR apartment experience designed
 - [x] Unit Three: A VR maze designed and scripted
-- [ ] Unit Four: A VR puzzler build using iterative testing and VR UX principles
-- [ ] Unit Five:
+- [x] Unit Four: A VR puzzle game built using iterative testing and VR UX principles
+- [x] Unit Five: An immersive language learning experience [CURRENTLY IN PROGRESS]
 - [ ] Unit Six:
 
 ## Built With
@@ -15,7 +15,7 @@ All projects were built using Unity 3D, with C# programming written in MonoDevel
 ## Installation Instructions
 Detailed installation instructions are provided within each folder.
 
-Note: the Plugins folder with the iOS and Android directories have been removed to save online storage. In order to build each scene within Unity to device, this file will need to be added to the Assets/Plugins directory. 
+Note: the Plugins folder with the iOS and Android directories have been removed to save online storage. In order to build each scene within Unity to device, this file will need to be added to the Assets/Plugins directory.
 
 ## Specifications
 - Each .apk build requires an Android OS.
