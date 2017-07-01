@@ -1,4 +1,5 @@
 import media
+import fresh_tomatoes
 
 taxi_driver = media.Movie("Taxi Driver",
                           "A Vietnam veteran operates a Taxi in 1970's New York",
@@ -30,6 +31,6 @@ gangs_of_new_york = media.Movie("Gangs of New York",
                                 "https://images-na.ssl-images-amazon.com/images/I/51bTWMS2nNL._SY355_.jpg",
                                 "https://www.youtube.com/watch?v=qHVUPri5tjA")
 
-new_jack_city.show_trailer()
-
-# calls the trailer to be displayed
+# save all the below movies into an array
+movies = [taxi_driver, godfather, mean_streets, eternal_sunshine, new_jack_city, gangs_of_new_york]
+fresh_tomatoes.open_movies_page(movies)
