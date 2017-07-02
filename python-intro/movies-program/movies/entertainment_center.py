@@ -33,4 +33,6 @@ gangs_of_new_york = media.Movie("Gangs of New York",
 
 # save all the below movies into an array
 movies = [taxi_driver, godfather, mean_streets, eternal_sunshine, new_jack_city, gangs_of_new_york]
-fresh_tomatoes.open_movies_page(movies)
+# fresh_tomatoes.open_movies_page(movies)
+
+print(media.Movie.MOVIE_RATINGS)
